@@ -10,4 +10,4 @@ cd node-server/ <br/> <br/>
 Run node server <br/>
 npm start <br/> <br/>
 
-terminal will show you the server running link, click on that to run on browser.
+Terminal will show you the server running link, click on that to run on browser. <br/>
